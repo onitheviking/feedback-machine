@@ -26,7 +26,3 @@ Please search [existing issues](https://github.com/onitheviking/feedback-machine
 ## Security
 
 If you discover a security vulnerability, **do not open a public issue**. Please follow the responsible disclosure process outlined in our [Security Policy](SECURITY.md).
-
-## License
-
-This repository contains no source code. It exists solely as a public issue tracker for the Feedback Machine Chrome extension.
